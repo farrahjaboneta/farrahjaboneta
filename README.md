@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hi there 👋
+I'm farrahjaboneta! I'm a 3rd Year Student! Nice to meet you!
+
 
 <!--
 **farrahjaboneta/farrahjaboneta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
