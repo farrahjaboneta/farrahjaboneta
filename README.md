@@ -1,4 +1,4 @@
-# Hi there 👋
+# 안녕 👋
 I'm farrahjaboneta! I'm a 3rd Year Student! Nice to meet you!
 
 
