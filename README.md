@@ -1,5 +1,5 @@
 # 안녕 👋
-I'm farrahjaboneta! I'm a 3rd Year Student! Nice to meet you!
+I'm Farrah Jaboneta, I'm a 3rd-year student. Nice to meet you!
 
 
 <!--
